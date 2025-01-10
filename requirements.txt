@@ -1,5 +1,6 @@
 motor
 aiohttp
+Grabber
 python-telegram-bot==20.6
 pymongo 
 pyrate-limiter==3.1.0
